@@ -13,3 +13,16 @@ a {
 	margin-left: auto;
 	margin-right: auto; 
 }
+
+h1 {
+	font-size: 72px;
+
+}
+
+.ethan-head {
+	background-color: #465380;
+}
+.ethan-head-text{
+	color: white;
+
+}
