@@ -8,3 +8,8 @@ a {
 	font-size: 32px;
 	color: #465380;
 }
+
+.container-fluid {
+	margin-left: auto;
+	margin-right: auto; 
+}
